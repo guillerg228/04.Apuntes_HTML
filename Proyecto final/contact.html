@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contacto - Mis lugares favoritos de CDMX</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Contacto</h1>
+        <p>¿Tienes una historia sobre alguno de estos lugares? ¿Preguntas sobre mi experiencia en CDMX? Escríbeme un mensaje.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="tlatelolco.html">Tlatelolco</a></li>
+            <li><a href="biblioteca_v.html">Biblioteca Vasconcelos</a></li>
+            <li><a href="parque_b.html">Parque Bicentenario</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <form action="/submit-form" method="post">
+        <label for="name">Nombre:</label>
+        <input type="text" id="name" name="name" required>
+        <br><br>
+        <label for="email">Correo electrónico:</label>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+        <label for="subject">Asunto:</label>
+        <input type="text" id="subject" name="subject">
+        <br><br>
+        <label for="message">Mensaje:</label>
+        <textarea id="message" name="message" rows="4" required></textarea>
+        <br><br>
+        <button type="submit">Enviar mensaje</button>
+    </form>
+
+    <footer>
+        <p>&copy; 2026 Un cachito de mi vida en CDMX</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,16 @@
+Este libro se uso para algunas implementaciones en el curso Es muy recomendable para consultas si llegas a tener 
+alguna duda
+
+En este enlace puedes consultarlo en PDF:
+
+https://www.academia.edu/40129651/ Algoritmos_a_fondo_Con_implementaciones_en_C_y_Java
+
+En este enlace puedes adquirirlo en Amazon:
+
+https://amzn.to/ 3gTBImJ
+
+https://amzn.to/2EV5Jpn
+
+Cualquiera de los enlaces anteriores, yo este libro lo tengo en físico y en digital, 
+lo recomiendo para consultas ya que es bastante extenso y comienza desde cero y llega a 
+estructuras de datos complejas
